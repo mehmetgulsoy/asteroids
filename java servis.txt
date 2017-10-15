@@ -1,0 +1,3 @@
+http://www.javatips.net/blog/cxf-mtom-client
+
+http://chee-yang.blogspot.com.tr/2008/03/using-indy-https-client-to-consume.html
